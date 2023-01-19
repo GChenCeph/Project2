@@ -1,0 +1,12 @@
+insert p1 4 4
+insert p1 4 4
+insert P1 4 4
+insert p2 300 15
+
+remove 4 4
+
+dump
+
+remove p1
+
+dump

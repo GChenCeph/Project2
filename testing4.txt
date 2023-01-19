@@ -1,0 +1,4 @@
+insert p1 4 4
+
+remove 1
+remove 1 2 3

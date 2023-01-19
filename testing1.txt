@@ -1,0 +1,12 @@
+
+insert p1 0 3
+insert p2 9 2
+insert p3 5 3
+insert p4 6 3
+
+regionsearch 500 500 20 20
+regionsearch 0 0 20 20
+
+remove 10 2
+
+dump
